@@ -1,6 +1,6 @@
-[submodule "meetdhawalpatel/AnswerIt-Server.git"]
+[submodule "Server"]
 	path = meetdhawalpatel/AnswerIt-Server.git
-	url = https://github.com/meetdhawalpatel/AnswerIt.git
-[submodule "meetdhawalpatel/AnswerIt-Web.git"]
+	url = https://github.com/meetdhawalpatel/AnswerIt-Server.git
+[submodule "Web"]
 	path = meetdhawalpatel/AnswerIt-Web.git
-	url = https://github.com/meetdhawalpatel/AnswerIt.git
+	url = https://github.com/meetdhawalpatel/AnswerIt-Web.git
